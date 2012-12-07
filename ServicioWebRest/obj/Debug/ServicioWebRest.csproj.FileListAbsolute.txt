@@ -1,0 +1,14 @@
+C:\Users\Miguel\Dropbox\Brockhaus\NET\WebRESTService\ServicioWebRest\bin\ServicioWebRest.dll
+C:\Users\Miguel\Dropbox\Brockhaus\NET\WebRESTService\ServicioWebRest\bin\ServicioWebRest.pdb
+C:\Users\Miguel\Dropbox\Brockhaus\NET\WebRESTService\ServicioWebRest\bin\EntityFramework.dll
+C:\Users\Miguel\Dropbox\Brockhaus\NET\WebRESTService\ServicioWebRest\bin\EntityFramework.xml
+C:\Users\Miguel\Dropbox\Brockhaus\NET\WebRESTService\ServicioWebRest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Miguel\Dropbox\Brockhaus\NET\WebRESTService\ServicioWebRest\obj\Debug\ServicioWebRest.dll
+C:\Users\Miguel\Dropbox\Brockhaus\NET\WebRESTService\ServicioWebRest\obj\Debug\ServicioWebRest.pdb
+G:\SVN\www\trunk\Trainings\JavaTechnologies\BRO140_Products\BRO140_5_Android\BRO140_5_5_AndroidBackendIntegration\lab\WebRESTService\ServicioWebRest\bin\ServicioWebRest.dll
+G:\SVN\www\trunk\Trainings\JavaTechnologies\BRO140_Products\BRO140_5_Android\BRO140_5_5_AndroidBackendIntegration\lab\WebRESTService\ServicioWebRest\bin\ServicioWebRest.pdb
+G:\SVN\www\trunk\Trainings\JavaTechnologies\BRO140_Products\BRO140_5_Android\BRO140_5_5_AndroidBackendIntegration\lab\WebRESTService\ServicioWebRest\bin\EntityFramework.dll
+G:\SVN\www\trunk\Trainings\JavaTechnologies\BRO140_Products\BRO140_5_Android\BRO140_5_5_AndroidBackendIntegration\lab\WebRESTService\ServicioWebRest\bin\EntityFramework.xml
+G:\SVN\www\trunk\Trainings\JavaTechnologies\BRO140_Products\BRO140_5_Android\BRO140_5_5_AndroidBackendIntegration\lab\WebRESTService\ServicioWebRest\obj\Debug\ResolveAssemblyReference.cache
+G:\SVN\www\trunk\Trainings\JavaTechnologies\BRO140_Products\BRO140_5_Android\BRO140_5_5_AndroidBackendIntegration\lab\WebRESTService\ServicioWebRest\obj\Debug\ServicioWebRest.dll
+G:\SVN\www\trunk\Trainings\JavaTechnologies\BRO140_Products\BRO140_5_Android\BRO140_5_5_AndroidBackendIntegration\lab\WebRESTService\ServicioWebRest\obj\Debug\ServicioWebRest.pdb
